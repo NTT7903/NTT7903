@@ -23,7 +23,10 @@
 
 <p align="">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NTT7903&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="Top Languages" height="195" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT7903&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="195" /></p>
+</p>
+<p align="">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTT7903&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="195" /> 
+</p>
 
 ### ✍️ Random Dev Quote
 <p align="">
