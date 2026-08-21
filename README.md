@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=NTT7903&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=NTT7903&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NTT7903&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NTT7903&theme=dark)](https://git.io/streak-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
